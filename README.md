@@ -5,4 +5,23 @@ TASK : 1
 House Price Prediction :
 
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
-Dataset :https://accounts.google.com/v3/signin/confirmidentifier?authuser=1&continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fu%2F1%2Fd%2F19YcREgHoFLO6q-09dUdSAOY4keTQ-rUz%2Fview%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fu%2F1%2Fd%2F19YcREgHoFLO6q-09dUdSAOY4keTQ-rUz%2Fview%3Fusp%3Ddrivesdk&ifkv=AXo7B7WRr615xB9_6lKNP-2BOde6mSRC55RZ30WAZfOtZZa8xFQwhemhLU1-ajBERszn2H_yjQ4P&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1492696763%3A1691499636013319
+Dataset :https://drive.google.com/file/d/19YcREgHoFLO6q-09dUdSAOY4keTQ-rUz/view?usp=drivesdk
+
+
+TASK : 2
+
+Wine Quality Prediction :
+
+"Machine Learning model to predict the quality of wine using linear regression only Jupyter notebook code."
+
+In this project i also used flask to deploy our Machine Learning model in a simple html web site.
+Dataset:https://drive.google.com/file/d/1gF69bKtfUKsh5wEa8AqLQRXVqHxBrd4Q/view?usp=drivesdk
+
+
+TASK : 3
+
+Iris Flowers Classification :
+
+"Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code."
+
+Dataset :https://drive.google.com/file/d/1TfqwGOMuBEKfuFLU0PPN-XjHDSvFdaCo/view?usp=drivesdk
